@@ -1,0 +1,8 @@
+var value=Math.sin(45)
+console.log("sin 45 is :"+value+" <br>")
+
+var value1=Math.cos(45)
+console.log("cos 45 is :"+value1+" <br>")
+
+var value2=Math.tan(45)
+console.log("tan 45 is :"+value2+" <br>")
